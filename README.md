@@ -98,4 +98,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Happy job hunting! We hope this project helps you in your programming job application journey.
 ```
 
-You can now copy and paste this README into your GitHub repository for the "ProgrammingJobApplications" project.
